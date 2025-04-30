@@ -103,6 +103,7 @@ footer{
     align-items: center;
     background-color: #ffffff;
     justify-content: space-between;
+    text-align: center;
 }
 
 .piePagina a{
